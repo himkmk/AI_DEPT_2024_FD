@@ -1,0 +1,2 @@
+_CONSTANT_rrdb_bicubic_ckpt = "/mnt/hdd0/mklee/AESOP/saved_parameters/AESOP_ckpts/main/AESOP_RRDB256_300K.pth"
+_CONSTANT_rrdb_realworld_ckpt = "/mnt/hdd0/mklee/AESOP/saved_parameters/AESOP_ckpts/main/RealAESOP_RRDB_400K.pth"
